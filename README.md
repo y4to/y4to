@@ -6,7 +6,6 @@
 Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on my E-Portfolio
-- 🌱 I’m currently learning things about QA
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything all at once
 - 📫 How to reach me: gheianagustin2001@gmail.com / agustin.gheian2001@gmail.com
 
